@@ -1,4 +1,6 @@
 
-.important { background-color: yellow; }
+body {
+  font-family: "Arial"
+}
 
-p.important { background-color: pink; }
+a:hover { display: none; }
